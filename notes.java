@@ -29,3 +29,5 @@ Invoke methods that belong: the object itself, object passed in as a parameter t
 Simple factory - a class that decides what objects to create
 
 Factory method - an abstract method that allows subclasses to decide what objects to create
+
+https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns
